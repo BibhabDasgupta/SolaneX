@@ -39,22 +39,16 @@ npm install
 Initialize the development environment by running the appropriate command:
 ```bash
 # For Frontend
-npm run start
+npm run dev
 # or
-yarn start
+yarn dev
 # or
-pnpm start
+pnpm dev
 # or
-bun start
+bun dev
 
 # For Backend
-npm run start
-# or
-yarn start
-# or
-pnpm start
-# or
-bun start
+node app.js
 ```
 
 ## ⭐ Feedback and Future Plans
